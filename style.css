@@ -1,0 +1,10 @@
+.header {
+  background-color: blanchedalmond;
+  padding: 20px 40px;
+  border: 10px dotted blueviolet;
+}
+.inform {
+  float: right;
+  display: block;
+  padding: 50px 100px;
+}

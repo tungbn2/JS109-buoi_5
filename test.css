@@ -1,0 +1,32 @@
+/* .hop1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
+.hop2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    padding-left: 100px;
+}
+.hop3{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: -100px 200px;
+} */
+/* #hop1 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin-left: 100px;
+  border: 1px solid black;
+} */
+.hop2, .hop1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    padding-left: 100px;
+    border: 1px solid black;
+}
